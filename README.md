@@ -1,3 +1,12 @@
+Steps to Run The Project:
+
+1. git clone https://github.com/susmithagadde/git_issues
+2. cd git_issues
+3. npm install
+4. npm start
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
